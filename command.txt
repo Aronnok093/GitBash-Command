@@ -1,0 +1,9 @@
+// basic command for git
+
+# git inti
+# git add demo.txt // add something to push 
+# git remote set-url origin {https link}
+# git remote -v // to show all origin link
+# git push origin master // to push 
+
+
